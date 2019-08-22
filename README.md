@@ -22,7 +22,7 @@ pod 'MXContacts'
 
 ## Author
 
-mhqamx, maxiao@seaway.net.cn
+supermax932016@gmail.com
 
 ## License
 
