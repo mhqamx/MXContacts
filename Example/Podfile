@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MXContacts_Example' do
+  pod 'MXContacts', :path => '../'
+
+  target 'MXContacts_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
